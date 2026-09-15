@@ -610,7 +610,6 @@ Virtual Interfaces
 Clocking Blocks
 Reference Model
 Scoreboard / Checker
-Functional Coverage
 ```
 
 ------------------------------------------------------------------------

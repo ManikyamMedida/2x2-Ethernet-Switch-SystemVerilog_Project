@@ -4,6 +4,7 @@ work/
 *.mpf
 *.mti
 *.bak
+*.mpf_new
 
 # Simulation scripts and logs
 *.do
